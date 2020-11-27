@@ -1,0 +1,26 @@
+Contents [hide]
+
+1  DevOps Course Overview
+1.1 Objectives of the Course
+1.2 Pre-requisites
+1.3 Who Should do the course
+1.4 DevOps Training Duration
+2 DevOps Course Content
+2.1 Introduction to DevOps
+2.2 Linux Concepts
+2.3 Automation Concepts
+2.4 Revision Controls System
+2.5 Configuration Management
+2.6 Environments
+2.7 Build Automation
+2.8 Tomcat Web Server
+2.9 Nexus Artifacts/Proxy Tool
+2.10 Jenkins Framework
+2.11 LAMP Setup
+2.11.1 Apache/HTTPD Web Service
+2.11.2 MySQL Database
+2.11.3  Installation of WordPress with LAMP
+2.11.4 Working with Docker
+2.11.5 System Monitoring
+2.11.6 DevOps Project Work
+2.12 Share this:
